@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { momoImages } from '../../config/images';
 
 export const featuredMomos = [
@@ -19,7 +19,7 @@ export const featuredMomos = [
     image: momoImages.steamed.paneer
   },
   {
-    name: 'Chicken Classic',
-    image: momoImages.steamed.chicken
+    name: 'Corn & Cheese',
+    image: momoImages.steamed.corn
   }
 ];

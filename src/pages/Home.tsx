@@ -1,4 +1,4 @@
-import React from 'react';
+
 import SEO from '../components/SEO/SEO';
 import HeroSlider from '../components/HeroSlider';
 import ScrollingMomos from '../components/ScrollingMomos';

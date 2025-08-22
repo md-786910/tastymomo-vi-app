@@ -10,7 +10,7 @@ export default function Footer() {
           {/* Brand Section */}
           <div>
             <Link to="/" className="text-2xl font-bold text-[#FF5C00]">
-              MoMo Magic
+              Tasty MoMo
             </Link>
             <p className="mt-4 text-gray-400">
               Bringing you the authentic taste of traditional momos with a modern twist.

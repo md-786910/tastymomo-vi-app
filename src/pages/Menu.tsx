@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { momos } from '../data/momos';
 import MenuCard from '../components/MenuCard';
 

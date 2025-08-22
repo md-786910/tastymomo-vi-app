@@ -14,6 +14,7 @@ export default function Navbar() {
     { path: '/menu', label: 'Menu' },
     { path: '/about', label: 'About' },
     { path: '/location', label: 'Location' },
+    { path: '/investment', label: 'Grow with Us' }
   ];
 
   return (

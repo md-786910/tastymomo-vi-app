@@ -6,6 +6,7 @@ import Menu from './pages/Menu';
 import About from './pages/About';
 import Location from './pages/Location';
 import MomoDetail from './pages/MomoDetail';
+import { TastyMomoInvestment } from './pages/TastyMomoInvestment';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
             <Route path="/about" element={<About />} />
             <Route path="/menu/:id" element={<MomoDetail />} />
             <Route path="/location" element={<Location />} />
+            <Route path="/investment" element={<TastyMomoInvestment />} />
           </Routes>
         </main>
         <Footer />

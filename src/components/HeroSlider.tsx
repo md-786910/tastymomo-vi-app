@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { ArrowRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
@@ -6,19 +6,19 @@ import { Link } from 'react-router-dom';
 const momos = [
   {
     id: 1,
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=800&q=80",
+    image: "/images/momo1.jpeg",
     title: "Steam Momos",
     price: "₹120"
   },
   {
     id: 2,
-    image: "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?auto=format&fit=crop&w=800&q=80",
+    image: "/images/momo2.jpeg",
     title: "Fried Momos",
     price: "₹140"
   },
   {
     id: 3,
-    image: "https://images.unsplash.com/photo-1609167830220-7164aa360951?auto=format&fit=crop&w=800&q=80",
+    image: "/images/momo3.jpeg",
     title: "Kurkure Momos",
     price: "₹160"
   }
