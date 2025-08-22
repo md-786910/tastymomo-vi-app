@@ -2,21 +2,21 @@
 export const momoImages = {
   // Steamed Momos
   steamed: {
-    veg: 'https://images.unsplash.com/photo-1626776876729-bab4369a5a5a?auto=format&fit=crop&w=800&q=80',
-    chicken: 'https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?auto=format&fit=crop&w=800&q=80',
-    paneer: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80'
+    veg: '/images/momo2.jpeg',
+    corn: '/images/corn&cheese.jpeg',
+    paneer: '/images/paneer.jpeg'
   },
   // Fried Momos
   fried: {
-    veg: 'https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=800&q=80',
-    chicken: 'https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?auto=format&fit=crop&w=800&q=80',
-    paneer: 'https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=800&q=80'
+    veg: '/images/vegFried.jpeg',
+    corn: '/images/corn&cheeseFried.jpeg',
+    paneer: '/images/paneerFried.jpeg'
   },
   // Kurkure Momos
   kurkure: {
-    veg: 'https://images.unsplash.com/photo-1609167830220-7164aa360951?auto=format&fit=crop&w=800&q=80',
-    chicken: 'https://images.unsplash.com/photo-1626776876729-bab4369a5a5a?auto=format&fit=crop&w=800&q=80',
-    paneer: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80'
+    veg: '/images/vegKurkure.jpeg',
+    corn: '/images/corn&cheeseKurkure.jpeg',
+    paneer: '/images/paneerKurkure.jpeg'
   },
   // Hero Images
   hero: {

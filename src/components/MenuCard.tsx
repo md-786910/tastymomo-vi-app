@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { type Momo } from '../types';
 import { Link } from 'react-router-dom';
 import { ChefHat, Timer, Tag } from 'lucide-react';

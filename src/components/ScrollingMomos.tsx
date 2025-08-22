@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion, useScroll, useTransform } from 'framer-motion';
 import MomoCard from './scrolling/MomoCard';
 import ParallaxText from './scrolling/ParallaxText';
